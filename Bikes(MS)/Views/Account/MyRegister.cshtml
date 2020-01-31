@@ -1,0 +1,28 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div id="fon" onclick="show('none')">
+</div>
+
+<div id="window">
+
+    <img class="close" src="close.png" alt="" onclick="show('none')">
+
+    <div class="forma">
+        <h2>Register</h2>
+        <form class="box" action="Register.html" name="f1">
+            <input type="text" placeholder="Name" name="name1" class="input">
+            <input type="text" placeholder="Second Name" name="name2" class="input">
+            <input type="email" placeholder="Email" name="email1" class="input">
+            <input type="email" placeholder="Confirm Email" name="email2" class="input">
+            <input type="password" placeholder="Password" name="pass1" class="input">
+            <input type="password" placeholder="Подтвердите пароль" name="pass2" class="input">
+            <input type='tel' placeholder="Мобильный телефон" name="tel" class="input">
+            <input type="radio" name="radio1"> Man
+            <input type="radio" name="radio1" class="radio"> Woman
+            <input type="submit" value="Register" name="sab" class="input">
+        </form>
+    </div>
+</div>

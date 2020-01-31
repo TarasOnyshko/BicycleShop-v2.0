@@ -1,0 +1,238 @@
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Bikes(MS).dll.config
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Bikes(MS).dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Bikes(MS).pdb
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csc.exe
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csc.exe.config
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csc.rsp
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csi.exe
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csi.exe.config
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\csi.rsp
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.AppContext.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Console.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.IO.Compression.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Claims.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.ValueTuple.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\vbc.exe
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\vbc.exe.config
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\vbc.rsp
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\VBCSCompiler.exe
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Antlr3.Runtime.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\EntityFramework.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\EntityFramework.SqlServer.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Newtonsoft.Json.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Owin.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Helpers.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Mvc.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Optimization.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Razor.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.Razor.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\WebGrease.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Helpers.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Mvc.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Optimization.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.Razor.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\System.Web.WebPages.Razor.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Newtonsoft.Json.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Antlr3.Runtime.pdb
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\EntityFramework.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\EntityFramework.SqlServer.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.Razor.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\EntityFramework.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).csprojAssemblyReference.cache
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).csproj.CoreCompileInputs.cache
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).csproj.CopyComplete
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).dll
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).pdb
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes_MS_.Migrations.InitialCreate.resources
+C:\Users\tasik\Desktop\C#\Bikes(MS)\Bikes(MS)\obj\Debug\Bikes(MS).csproj.GenerateResource.cache
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Bikes(MS).dll.config
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Bikes(MS).dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Bikes(MS).pdb
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csc.exe
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csc.exe.config
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csc.rsp
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csi.exe
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csi.exe.config
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\csi.rsp
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.AppContext.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Console.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.IO.Compression.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.IO.Pipes.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Claims.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.ValueTuple.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\vbc.exe
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\vbc.exe.config
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\vbc.rsp
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\VBCSCompiler.exe
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Antlr3.Runtime.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\EntityFramework.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\EntityFramework.SqlServer.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Newtonsoft.Json.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Owin.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Helpers.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Mvc.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Optimization.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Razor.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.Razor.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\WebGrease.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Helpers.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Mvc.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Optimization.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.Razor.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\System.Web.WebPages.Razor.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Newtonsoft.Json.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Antlr3.Runtime.pdb
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\EntityFramework.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\EntityFramework.SqlServer.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.Razor.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\EntityFramework.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).csprojAssemblyReference.cache
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes_MS_.Migrations.InitialCreate.resources
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).csproj.GenerateResource.cache
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).csproj.CoreCompileInputs.cache
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).csproj.CopyComplete
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).dll
+C:\Users\tonysh\Desktop\Some my projects\New folder\BicyclesShop-master\Bikes(MS)\obj\Debug\Bikes(MS).pdb

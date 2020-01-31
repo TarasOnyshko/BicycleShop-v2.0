@@ -1,0 +1,46 @@
+﻿@using Bikes_MS_.Models;
+@{
+    ViewBag.Title = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center; color: #FF8C00;">My Cart</h2>
+<div class="cartblock">
+    <div class="innerform">
+
+        <table style="padding:15px;">
+            <thead style="text-decoration:underline;padding:15px;">
+                <tr>
+                    <td>Option</td>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>Price</td>
+                    <td>Weight</td>
+                    <td>Quantity</td>
+                    <td>Sum</td>
+                </tr>
+            </thead>
+
+            <tbody style="padding:30px;">
+                @foreach (Item item in (List<Item>)Session["cart"])
+                {
+                    <tr style="padding:30px;">
+                        <td><a href="@Url.Action("Remove", "Cart", new { id = item.Bike.Id })">Remove</a></td>
+                        <td>@item.Bike.Id</td>
+                        <td>@item.Bike.Name</td>
+                        @*<td><img src="~/Content/Images/@item.Bike.Photo" width="60" /> </td>*@
+                        <td>@item.Bike.Price</td>
+                        <td>@item.Bike.Weight</td>
+                        <td>@item.Quantity</td>
+
+                        <td>@(item.Bike.Price * item.Quantity)</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+        <a href="@Url.Action("Shop", "Home")">Continue Shopping</a>
+    </div>
+</div>
+
+@*<a href="@Url.Action("Shop", "Home")">Continue Shopping</a>*@

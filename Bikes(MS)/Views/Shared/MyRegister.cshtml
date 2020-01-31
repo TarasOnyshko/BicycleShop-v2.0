@@ -1,0 +1,52 @@
+﻿@model Bikes_MS_.Models.RegisterViewModel
+
+@{
+    Layout = null;
+}
+
+<div id="fon" onclick="show('none')">
+</div>
+
+<div id="window">
+
+    <img class="close" src="" alt="" onclick="show('none')">
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="forma">
+            <h2>Register</h2>
+            <form class="box" action="Register.html" name="f1">
+                @Html.TextBoxFor(m => m.Name, new { placeholder = "Name", @class = "input" })
+                @*<input type="text" placeholder="Name" name="name1" class="input">*@
+
+                @Html.TextBoxFor(m => m.SecondName, new { placeholder = "Second Name", @class = "input" })
+                @*<input type="text" placeholder="Second Name" name="name2" class="input">*@
+
+                @Html.TextBoxFor(m => m.Email, new { placeholder = "Email", @class = "input" })
+                @*<input type="email" placeholder="Email" name="email1" class="input">*@
+
+                @*<input type="email" placeholder="Confirm Email" name="email2" class="input">*@
+
+                @Html.PasswordFor(m => m.Password, new { placeholder = "Password", @class = "input" })
+                @*<input type="password" placeholder="Password" name="pass1" class="input">*@
+
+                @Html.PasswordFor(m => m.ConfirmPassword, new { placeholder = "Confirm Password", @class = "input" })
+                @*<input type="password" placeholder="Confirm Password" name="pass2" class="input">*@
+
+                @Html.TextBoxFor(m => m.Phone, new { placeholder = "Phone", @class = "input" })
+                @*<input type='tel' placeholder="Phone Number" name="tel" class="input">*@
+
+                <input type="radio" name="radio1"> Man
+                <input type="radio" name="radio1" class="radio"> Woman
+                <input type="submit" value="Register" name="sab" class="input">
+            </form>
+
+        </div>
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

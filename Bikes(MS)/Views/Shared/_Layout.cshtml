@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="@Url.Content("~/Content/Site.css")" rel="stylesheet" type="text/css" />
+    <link href="@Url.Content("~/Content/RegStyle.css")" rel="stylesheet" type="text/css" />
+    @Scripts.Render("~/Scripts/Script.js")
+   
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Bikes World </title>
+</head>
+
+<body>
+
+    <header>
+
+        <div class="logotype">
+            <H1>Hello to world of Bikes!</H1>
+
+        </div>
+
+        <nav>
+            <div class="mynav">
+                <div>
+                    @Html.ActionLink("HOME", "", "")
+
+                    @Html.ActionLink("REG", "Register", "Account")
+                    @Html.ActionLink("BIKES", "", "")
+                    @Html.ActionLink("SHOP", "Shop", "Home")
+                    <a id="reg" onclick="show('block')" href="#">REGISTER</a>
+                </div>
+
+            </div>
+        </nav>
+
+
+
+    </header>
+
+
+    <div class="block">
+        @RenderBody()
+
+        @RenderSection("scripts", required: false)
+    </div>
+    <!--<script>
+        document.getElementById('window').style.display = block;
+    </script>-->
+
+    <div>
+        @RenderPage("~/Views/Shared/MyRegister.cshtml")
+    </div>
+
+    <footer class="footer">
+        <p class="foottext">
+            <i>All rights reserved</i> <br>
+            Made and designed by<strong> Taras Onyshko</strong>
+        </p>
+        <p class="contacts">
+            Contacts:
+            <a class="facebook" href="https://www.facebook.com/profile.php?id=100008335572198"><i class="fab fa-facebook"></i></a>
+        </p>
+
+
+
+    </footer>
+
+
+    @Scripts.Render("~/scripts/jquery-1.7.1.js")
+    @Scripts.Render("~/scripts/jquery.unobtrusive-ajax.js")
+    @Scripts.Render("~/Scripts/Script.js")
+
+
+
+
+
+
+
+
+</body>
+
+</html>

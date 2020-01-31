@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "Buy";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="buyform">
+    <div class="innerform">
+        <h3>Your order</h3>
+        <form method="post" action="">
+            <input type="hidden" value="Viewbag.Id" name="Id" />
+            <p>Enter name:</p>
+            <input type="text" name="Person" /><br />
+            <p>Enter address:</p>
+            <input type="text" name="Adress" /><br /><br />
+            <input type="submit" value="Submit"  data-toggle="modal" data-target="#myModal"/>
+        </form>
+    </div>
+</div>

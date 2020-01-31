@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Shop";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h2 class="coll_title">Bikes Inventory <small></small></h2>
+    <div class="collections">
+        @foreach (var item in ViewBag.Bikes)
+        {
+            <div class="collections_outer">
+                <div class="collections_item">
+                    <img src="~/Content/somebike.jpg" alt="smth">
+                    <div class="collections_text">
+                        <h3>@item.Name</h3>
+                        <p>
+                            Price: @item.Price <br />
+                            Weight: @item.Weight <br />
+                            Speed: @item.Speed
+                        </p>
+                        <a href="/Home/Buy/@item.Id">BUY</a>
+                        <a href="/Cart/Add/@item.Id">Add to Cart</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+</div>
+

@@ -1,0 +1,276 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-shadow: 2px 2px 3px black;
+    color: #FF8C00;
+    text-align: center;
+    padding: 2px;
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+
+.cartblock {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    background: rgba(241,243,244,0.7);
+    border-radius: 25px;
+    padding: 20px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    font-family: 'Raleway', sans-serif;
+    background-image: url(bike2.jpg);
+    margin-bottom: 0px;
+}
+
+html {
+    height: 100%;
+}
+
+.textt {
+    padding: 20px;
+}
+
+.logotype {
+    background: rgba(241,243,244,0.7);
+    border-radius: 25px;
+    padding: 5px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 800px;
+    height: 30px;
+    text-align: center;
+}
+
+.mynav {
+    border-radius: 25px;
+    background: rgba(241,243,244,0.7);
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+    .mynav a {
+        color: #000;
+        text-align: center;
+        padding: 5px 40px;
+        font-size: 20px;
+    }
+
+
+        .mynav a:hover {
+            border-bottom: 2px solid #000;
+        }
+
+
+.block {
+    display: inline-block;
+    flex-grow: 1;
+}
+/* start commented backslash hack \*/
+* html .block {
+    height: 1%;
+}
+
+
+
+
+.content {
+    padding-bottom: 100px;
+    overflow: auto;
+    margin: auto;
+    width: 80%;
+    float: left;
+}
+
+.incontent {
+    color: #000;
+    text-align: center;
+    border-radius: 25px;
+    min-height: 300px;
+    background: rgba(241,243,244,0.7);
+}
+
+.sidebar {
+    margin: auto;
+    float: left;
+    width: 20%;
+    padding-left: 10px;
+    min-height: 100%;
+}
+
+.insidebar {
+    border-radius: 25px;
+    min-height: 300px;
+    background: rgba(241,243,244,0.7);
+}
+
+
+
+.footer {
+    text-shadow: 1px 1px 1px #FF8C00;
+    background-color: #C1C1C1;
+    color: black;
+    clear: both;
+    text-align: center;
+    border-radius: 25px 25px 0px 0px;
+}
+
+    .footer p {
+        padding-top: 6px;
+    }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding-top: 6px;
+}
+
+.foottext {
+    margin-top: 6px;
+    flex-basis: 80%;
+}
+
+.contacts {
+    align-self: flex-start;
+}
+
+.facebook {
+    font-size: 25px;
+    color: #282923;
+}
+
+
+    .facebook:hover i {
+        color: #4267B2;
+        transition: 0.7s;
+        transform: scale(1.1);
+    }
+
+.tablecontent a {
+    color: #000;
+    text-align: center;
+    padding: 5px 40px;
+    font-size: 20px;
+}
+
+.tablecontent a:hover {
+     border-bottom: 2px solid #000;
+}
+
+
+
+.buyform {
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    background: rgba(241,243,244,0.7);
+    border-radius:25px;
+    padding:20px;
+}
+
+.innerform {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    margin: 0 auto;
+    width: 960px;
+}
+
+.collections {
+    overflow: auto;
+}
+
+.coll_title {
+    padding-bottom: 5px;
+    border-bottom: 1px solid black;
+    font-size: 36px;
+}
+
+    .coll_title small {
+        color: #777;
+        font-size: 70%;
+    }
+
+.collections_outer {
+    display: inline-block;
+    float: left;
+    padding-left: 0px;
+    padding-right: 10px;
+    width: 33.33%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.collections > div:first-child {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.collections > div:last-child {
+    padding-right: 10px;
+    padding-left: 0px;
+}
+
+.collections_item {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border: 1px solid grey;
+    background: rgba(241,243,244,0.7);
+}
+
+    .collections_item img {
+        width: 100%;
+    }
+
+.collections_text 
+{
+    padding: 0 20px 20px 20px;
+}
+
+    .collections_text h3 {
+        text-shadow: 2px 2px 4px black;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        padding-bottom: 5px;
+    }
+
+    .collections_text p {
+        height: 80px;
+        overflow: hidden;
+    }
+
+    .collections_text a{
+        color:black;
+        padding: 5px 15px;
+        border: 1px solid lightgrey;
+        border-radius: 5px;
+        outline: none;
+    }
+
+        .collections_text a:hover {
+            background-color: darkgrey;
+            color: white;
+            cursor: pointer;
+        }
